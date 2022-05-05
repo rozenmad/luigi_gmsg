@@ -1,13 +1,11 @@
 # luigi_lua
-Tool for unpack/repack gmsg files from EU ver. Luigi's Mansion 3DS
-
+Tool for unpack/repack gmsg files from EU ver. Luigi's Mansion 3DS <br />
 Running on luajit 2.1.0
 
 based on:
 https://github.com/Xzonn/LuigiMansion
 
-import - Repack inputgmsg_name.gmsg from inputmd_name.md to .gmsg
-
+import - Repack inputgmsg_name.gmsg from inputmd_name.md to .gmsg <br />
 export - Unpack inputgmsg_name.gmsg to .md
 
 ### How to use
