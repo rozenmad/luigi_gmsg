@@ -7,6 +7,7 @@ based on:
 https://github.com/Xzonn/LuigiMansion
 
 import - Repack inputgmsg_name.gmsg from inputmd_name.md to .gmsg
+
 export - Unpack inputgmsg_name.gmsg to .md
 
 ### How to use
