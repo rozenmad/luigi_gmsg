@@ -1,6 +1,8 @@
 # luigi_lua
 Tool for unpack/repack gmsg files from EU ver. Luigi's Mansion 3DS
+
 Running on luajit 2.1.0
+
 based on:
 https://github.com/Xzonn/LuigiMansion
 
